@@ -1,0 +1,13 @@
+tipos.php
+
+deve sair 
+
+str(Rui)
+int(17)
+float(1.75)
+bool(true)
+
+string(3) "Rui"
+int(17)
+float(1.75)
+bool(true)

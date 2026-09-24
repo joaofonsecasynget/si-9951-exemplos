@@ -2,7 +2,7 @@
 
 Exemplos do professor da UFCD 9951 Linguagem de programação web de servidor, mostrados nas aulas. É público: qualquer aluno pode consultar e clonar.
 
-**Começa pelo [GUIA.md](GUIA.md)**: tem os passos para criares a conta no GitHub e o teu repositório `si-9951`, instalares e configurares o Git e o VS Code, e trabalhares com commit, push e pull no VS Code.
+**Começa pelo [GUIA.md](GUIA.md)** (também em [PDF](GUIA.pdf)): tem os passos para criares a conta no GitHub e o teu repositório `si-9951`, instalares e configurares o Git e o VS Code, e trabalhares com commit, push e pull no VS Code.
 
 ## Como está organizado
 

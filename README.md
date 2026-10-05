@@ -17,6 +17,8 @@ si-9951-exemplos/
     ola.php
   teorica-03/        uma pasta por aula teórica, com os exemplos mostrados
     bem-vindo.php
+  teorica-04/        variáveis, tipos (var_dump, gettype), operadores, == e ===, aspas
+    tipos.php
 ```
 
 As pastas `teorica-NN` têm os exemplos das aulas teóricas (turma completa); não é preciso copiá-las para o teu repositório. As pastas `aula-NN` seguem a estrutura que se pede no repositório de cada aluno: uma pasta `aula-NN` por aula, com os ficheiros dentro e as folhas de estilo em `css/`, sempre com dois algarismos, sem espaços, sem acentos e em minúsculas.

@@ -19,7 +19,14 @@ si-9951-exemplos/
     bem-vindo.php
   teorica-04/        variáveis, tipos (var_dump, gettype), operadores, == e ===, aspas
     tipos.php
+  aula-06/           if / elseif / else, && || ! — exercícios e cinema.php
+  aula-07/           arrays, for e foreach — exercícios e playlist.php
+  teorica-05/        switch e funções próprias
+  aula-08/           funções próprias, funções de texto e date() — exercícios e ficha_filme.php
+  aula-09/           include e require — o mini-site do Cinema Estrela
 ```
+
+Cada exercício tem o enunciado em comentário no início do ficheiro e a resolução a seguir.
 
 As pastas `teorica-NN` têm os exemplos das aulas teóricas (turma completa); não é preciso copiá-las para o teu repositório. As pastas `aula-NN` seguem a estrutura que se pede no repositório de cada aluno: uma pasta `aula-NN` por aula, com os ficheiros dentro e as folhas de estilo em `css/`, sempre com dois algarismos, sem espaços, sem acentos e em minúsculas.
 
